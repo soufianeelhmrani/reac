@@ -1,0 +1,1 @@
+export const questions=[{enonce:"2 x 2 =",rep:4,options:[3,4,5]},{enonce:"5 + 3 =",rep:4,options:[9,5,8]},{enonce:"9 - 2 =",rep:4,options:[8,2,7]}]
